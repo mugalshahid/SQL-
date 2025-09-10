@@ -1,0 +1,13 @@
+Char -- in this memory is fix , its occupied given size
+
+Varchar -- in this memory is occupied based on given character
+
+-- In varchar last white space are truncate
+
+-- In char last white space are occupied-->toatl char size tak 
+
+
+Datetime (8 byte ) -- wide range
+Timestamp (4 byte) -- limited range(2038)
+
+Q. how to store the image in rdbms system?  
